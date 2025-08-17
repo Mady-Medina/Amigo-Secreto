@@ -22,8 +22,9 @@
 - `Sorteo aleatorio:` Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 </p>
 
-## 💡 Tecnologías utilizadas
+## ✅ Tecnologías utilizadas
 <p align="justify">
+   
  - JS.
   
  - HTML.
